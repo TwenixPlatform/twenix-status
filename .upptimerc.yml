@@ -7,10 +7,16 @@ sites:
     url: https://www.twenix.com
   - name: Twenix Students
     url: https://platform.twenix.com/auth/login
+    headers:
+      - "User-Agent: Twenix uptime"
   - name: Twenix Teachers
     url: https://teacher.twenix.com/auth/login
+    headers:
+      - "User-Agent: Twenix uptime"
   - name: Twenix Backend
     url: https://platform-back.twenix.com/alive 
+    headers:
+      - "User-Agent: Twenix uptime"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
