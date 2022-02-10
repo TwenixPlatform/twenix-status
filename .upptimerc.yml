@@ -8,7 +8,7 @@ sites:
   - name: Twenix Students
     url: https://platform.twenix.com
   - name: Twenix Teachers
-    url: https://teachers.twenix.com
+    url: https://teacher.twenix.com
   - name: Twenix Backend
     url: https://platform-back.twenix.com/alive 
 
