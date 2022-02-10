@@ -6,9 +6,9 @@ sites:
   - name: Twenix Portal
     url: https://www.twenix.com
   - name: Twenix Students
-    url: https://platform.twenix.com
+    url: https://platform.twenix.com/auth/login
   - name: Twenix Teachers
-    url: https://teacher.twenix.com
+    url: https://teacher.twenix.com/auth/login
   - name: Twenix Backend
     url: https://platform-back.twenix.com/alive 
 
