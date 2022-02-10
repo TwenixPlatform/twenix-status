@@ -22,8 +22,6 @@ status-website:
   introTitle: "**Twenix** status page"
   introMessage: This is the Twenix´s status page. Social media [**Twitter**](https://twitter.com/twenix)
   navbar:
-    - title: Status
-      href: /twenix-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
