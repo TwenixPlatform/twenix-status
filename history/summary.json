@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1286,
-    "timeDay": 1286,
-    "timeWeek": 1286,
-    "timeMonth": 1286,
-    "timeYear": 1286,
+    "time": 1298,
+    "timeDay": 1298,
+    "timeWeek": 1298,
+    "timeMonth": 1298,
+    "timeYear": 1298,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/platform.twenix.com",
     "slug": "twenix-students",
     "status": "down",
-    "uptime": "9.34%",
-    "uptimeDay": "9.34%",
-    "uptimeWeek": "9.34%",
-    "uptimeMonth": "9.34%",
-    "uptimeYear": "9.34%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "uptime": "0.61%",
+    "uptimeDay": "0.61%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
+    "time": 729,
+    "timeDay": 729,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 6
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/teachers.twenix.com",
     "slug": "twenix-teachers",
     "status": "down",
-    "uptime": "7.08%",
-    "uptimeDay": "7.08%",
-    "uptimeWeek": "7.08%",
-    "uptimeMonth": "7.08%",
-    "uptimeYear": "7.08%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 6
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/platform-back.twenix.com",
     "slug": "twenix-backend",
     "status": "down",
-    "uptime": "10.62%",
-    "uptimeDay": "10.62%",
-    "uptimeWeek": "10.62%",
-    "uptimeMonth": "10.62%",
-    "uptimeYear": "10.62%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
+    "time": 685,
+    "timeDay": 685,
+    "timeWeek": 685,
+    "timeMonth": 685,
+    "timeYear": 685,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 6
     }
   }
 ]
