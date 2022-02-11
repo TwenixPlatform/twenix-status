@@ -4,7 +4,7 @@ repo: twenix-status # The name of this repository
 
 sites:
   - name: Twenix Portal
-    url: https://www.twenis.com
+    url: https://www.twenix.com
   - name: Twenix Students
     url: https://platform.twenix.com/auth/login
     headers:
