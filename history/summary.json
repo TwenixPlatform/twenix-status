@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.14%",
+    "uptimeWeek": "95.83%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.89%",
-    "time": 1883,
-    "timeDay": 2220,
-    "timeWeek": 1872,
-    "timeMonth": 2149,
-    "timeYear": 1883,
+    "time": 1882,
+    "timeDay": 1534,
+    "timeWeek": 1834,
+    "timeMonth": 2140,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2022-12-02": 434,
       "2022-12-01": 57,
@@ -50,18 +50,16 @@
     "slug": "twenix-students",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 524,
-    "timeWeek": 540,
-    "timeMonth": 537,
-    "timeYear": 658,
-    "dailyMinutesDown": {
-      "2022-12-08": 9
-    }
+    "time": 657,
+    "timeDay": 440,
+    "timeWeek": 508,
+    "timeMonth": 536,
+    "timeYear": 657,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twenix Teachers",
@@ -70,18 +68,16 @@
     "slug": "twenix-teachers",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 561,
-    "timeWeek": 553,
-    "timeMonth": 527,
-    "timeYear": 557,
-    "dailyMinutesDown": {
-      "2022-12-08": 9
-    }
+    "time": 556,
+    "timeDay": 476,
+    "timeWeek": 523,
+    "timeMonth": 529,
+    "timeYear": 556,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twenix Backend",
@@ -90,17 +86,15 @@
     "slug": "twenix-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 553,
-    "timeWeek": 552,
+    "timeDay": 448,
+    "timeWeek": 519,
     "timeMonth": 522,
     "timeYear": 558,
-    "dailyMinutesDown": {
-      "2022-12-08": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
