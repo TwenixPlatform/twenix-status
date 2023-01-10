@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.80%",
-    "time": 1869,
-    "timeDay": 1952,
-    "timeWeek": 1840,
-    "timeMonth": 1732,
-    "timeYear": 1869,
+    "time": 1868,
+    "timeDay": 1375,
+    "timeWeek": 1804,
+    "timeMonth": 1708,
+    "timeYear": 1868,
     "dailyMinutesDown": {
       "2023-01-01": 904,
       "2022-12-19": 21,
@@ -53,18 +53,16 @@
     "slug": "twenix-students",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 551,
-    "timeWeek": 524,
-    "timeMonth": 507,
-    "timeYear": 643,
-    "dailyMinutesDown": {
-      "2023-01-09": 13
-    }
+    "time": 642,
+    "timeDay": 461,
+    "timeWeek": 512,
+    "timeMonth": 498,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twenix Teachers",
@@ -73,18 +71,16 @@
     "slug": "twenix-teachers",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 562,
-    "timeWeek": 523,
-    "timeMonth": 497,
-    "timeYear": 551,
-    "dailyMinutesDown": {
-      "2023-01-09": 13
-    }
+    "time": 550,
+    "timeDay": 473,
+    "timeWeek": 514,
+    "timeMonth": 490,
+    "timeYear": 550,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twenix Backend",
@@ -93,17 +89,15 @@
     "slug": "twenix-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 536,
-    "timeWeek": 527,
-    "timeMonth": 516,
+    "timeDay": 449,
+    "timeWeek": 509,
+    "timeMonth": 508,
     "timeYear": 554,
-    "dailyMinutesDown": {
-      "2023-01-09": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
