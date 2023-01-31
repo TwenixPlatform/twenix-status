@@ -88,19 +88,19 @@
     "url": "https://platform-back.twenix.com/alive",
     "icon": "https://icons.duckduckgo.com/ip3/platform-back.twenix.com.ico",
     "slug": "twenix-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 5491,
-    "timeWeek": 1796,
-    "timeMonth": 802,
-    "timeYear": 578,
+    "time": 577,
+    "timeDay": 3819,
+    "timeWeek": 1649,
+    "timeMonth": 793,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 15
     }
   }
 ]
