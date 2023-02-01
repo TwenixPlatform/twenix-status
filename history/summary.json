@@ -8,7 +8,7 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.26%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "98.88%",
     "time": 1857,
     "timeDay": 1707,
@@ -52,19 +52,19 @@
     "url": "https://platform.twenix.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.twenix.com.ico",
     "slug": "twenix-students",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 435,
-    "timeWeek": 534,
-    "timeMonth": 514,
+    "timeDay": 426,
+    "timeWeek": 520,
+    "timeMonth": 511,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 10
     }
   },
   {
@@ -72,19 +72,19 @@
     "url": "https://teacher.twenix.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/teacher.twenix.com.ico",
     "slug": "twenix-teachers",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 458,
-    "timeWeek": 539,
-    "timeMonth": 509,
-    "timeYear": 548,
+    "time": 547,
+    "timeDay": 439,
+    "timeWeek": 524,
+    "timeMonth": 506,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 10
     }
   },
   {
