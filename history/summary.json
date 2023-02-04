@@ -4,7 +4,7 @@
     "url": "https://www.twenix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.twenix.com.ico",
     "slug": "twenix-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1721,
     "timeYear": 1858,
     "dailyMinutesDown": {
+      "2023-02-04": 0,
       "2023-01-25": 22,
       "2023-01-01": 904,
       "2022-12-19": 21,
