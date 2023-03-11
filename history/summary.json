@@ -6,14 +6,14 @@
     "slug": "twenix-portal",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "69.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.18%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.75%",
     "time": 1872,
-    "timeDay": 2072,
-    "timeWeek": 1740,
-    "timeMonth": 1846,
+    "timeDay": 1861,
+    "timeWeek": 1753,
+    "timeMonth": 1850,
     "timeYear": 1911,
     "dailyMinutesDown": {
       "2023-03-09": 447,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 392,
-    "timeWeek": 479,
-    "timeMonth": 489,
-    "timeYear": 615,
+    "timeDay": 548,
+    "timeWeek": 487,
+    "timeMonth": 493,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -79,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 376,
-    "timeWeek": 475,
-    "timeMonth": 489,
-    "timeYear": 539,
+    "timeDay": 542,
+    "timeWeek": 477,
+    "timeMonth": 494,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   },
   {
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
-    "timeDay": 404,
+    "timeDay": 550,
     "timeWeek": 483,
-    "timeMonth": 481,
-    "timeYear": 569,
+    "timeMonth": 487,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   }
 ]
