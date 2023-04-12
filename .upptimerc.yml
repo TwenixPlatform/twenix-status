@@ -14,7 +14,7 @@ sites:
     headers:
       - "User-Agent: Twenix uptime"
   - name: Twenix Backend
-    url: https://platform-back.twenix.com/alive 
+    url: https://platform.twenix.com/api/alive 
     headers:
       - "User-Agent: Twenix uptime"
 
